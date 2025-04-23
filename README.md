@@ -5,3 +5,5 @@ Demonstrate git usage
 Xyzzy
 
 Foo bar 123
+
+Bar
